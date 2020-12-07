@@ -1,4 +1,5 @@
-module gitlab.youedata.com/go-mysql-handle
+module github.com/zbyjm6969/golang-mysql-jdbc
+
 
 go 1.15
 
