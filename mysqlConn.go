@@ -10,7 +10,6 @@ import (
 	"time"
 )
 
-
 type Mysql struct {
 	Conn *sql.DB
 	// config
